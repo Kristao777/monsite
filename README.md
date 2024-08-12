@@ -1,0 +1,1 @@
+Exemple de projet présentant l'architecture MVC
